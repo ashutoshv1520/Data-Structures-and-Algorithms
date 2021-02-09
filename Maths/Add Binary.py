@@ -10,7 +10,7 @@ class Solution(object):
         :type b: str
         :rtype: str
         """
-        
+              
         x=int(a,2)
         y=int(b,2)
         z=x+y
