@@ -1,9 +1,9 @@
 # binarysearch.com weekly coding 2
-# class Tree:
-#     def __init__(self, val, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
+class Tree:
+    def __init__(self, val, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
 
 # class LLNode:
 #     def __init__(self, val, next=None):
